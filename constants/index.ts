@@ -15,6 +15,7 @@ export const PEOPLE_URL = [
   '/person-4.png',
 ];
 
+
 // FEATURES SECTION
 export const FEATURES = [
   {
@@ -24,6 +25,7 @@ export const FEATURES = [
     description:
       'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
   },
+  
   {
     title: 'Set an adventure schedule',
     icon: '/calendar.svg',
